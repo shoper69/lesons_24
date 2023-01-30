@@ -1,0 +1,17 @@
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/lesons_24
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/lesons_24.deps.json
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/lesons_24.runtimeconfig.json
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/lesons_24.dll
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/lesons_24.pdb
+/Users/artem/Projects/lesons_24/lesons_24/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.csproj.AssemblyReference.cache
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.AssemblyInfoInputs.cache
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.AssemblyInfo.cs
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.csproj.CoreCompileInputs.cache
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.csproj.CopyComplete
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.dll
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/refint/lesons_24.dll
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.pdb
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/lesons_24.genruntimeconfig.cache
+/Users/artem/Projects/lesons_24/lesons_24/obj/Debug/net6.0/ref/lesons_24.dll

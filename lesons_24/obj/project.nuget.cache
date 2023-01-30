@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUFuyaxcH8d4uhtFqSNbZYia73m3tgWCXcTqYDaWTvVy0HcVcPE6ZTIx6OfbZthOnlQgylM75sieXGGoAZqMFQ==",
+  "success": true,
+  "projectFilePath": "/Users/artem/Projects/lesons_24/lesons_24/lesons_24.csproj",
+  "expectedPackageFiles": [
+    "/Users/artem/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
